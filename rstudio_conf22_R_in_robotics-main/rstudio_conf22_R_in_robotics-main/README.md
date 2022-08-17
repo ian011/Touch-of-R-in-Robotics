@@ -18,10 +18,7 @@ This repo contains code that we used to achieve robotic arm actuation using R, p
  * Serial link communication
  
  <br>
-
- Each of this sections is elaborated in detail at the the talk's website:
  
- https://r-icntay.github.io/rstudio_conf22_R_in_robotics/
  
  ## Result upon combinig all the three modules highlighted above
 https://user-images.githubusercontent.com/56159134/181566714-0a09f34e-427d-4c6f-bbf1-aff224fa25bd.mp4
